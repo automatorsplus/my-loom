@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>local.myloom</string>
+	<key>CFBundleName</key>
+	<string>MyLoom</string>
+	<key>CFBundleDisplayName</key>
+	<string>MyLoom</string>
+	<key>CFBundleExecutable</key>
+	<string>MyLoom</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSCameraUseContinuityCameraDeviceType</key>
+	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>MyLoom shows your camera in the round bubble so it appears in your recording. Video stays on this Mac.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>MyLoom records your microphone into the movie it saves on this Mac.</string>
+</dict>
+</plist>
